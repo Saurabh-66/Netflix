@@ -83,3 +83,4 @@ export const Picture = styled.img`
   margin-top: -100px;
   margin-left: -22px;
 `;
+
