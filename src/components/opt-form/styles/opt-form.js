@@ -14,11 +14,11 @@ export const Container = styled.div`
 `;
 
 export const Input = styled.input`
-  max-width: 450px;
+  max-width: 440px;
   width: 100%;
   border: 0;
   padding: 10px;
-  height: 70px;
+  height: 60px;
   box-sizing: border-box;
 `;
 
@@ -31,7 +31,7 @@ export const Button = styled.button`
   display: flex;
   align-items: center;
   height: 100%;
-  height: 70px;
+  height: 60px;
   background: #e50914;
   color: white;
   text-transform: uppercase;
