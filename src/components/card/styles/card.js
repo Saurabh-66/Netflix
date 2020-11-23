@@ -198,3 +198,4 @@ export const Maturity = styled.div`
   margin-right: 10px;
   font-size: 12px;
 `;
+
