@@ -111,3 +111,4 @@ export function BrowseContainer({ slides }) {
     <SelectProfileContainer user={user} setProfile={setProfile} />
   );
 }
+
