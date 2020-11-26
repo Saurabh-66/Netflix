@@ -3,7 +3,7 @@
   <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo">
 </p>
 
-***The website is currently live on this URL: https://stupefied-panini-f861d0.netlify.app/***
+# ***The website is currently live on this URL: https://stupefied-panini-f861d0.netlify.app/***
 
 Netflix is an online streaming service where one can watch films, web series, TV shows, etc. Due to the current pandemic the consumption and demand for video content has increased drastically and so has the user-base of Netflix. It is a paid streaming service, i.e. you have to opt for a monthly subscription plan in order to watch the content (movies, TV shows, etc.) available on the platform.
 
@@ -41,6 +41,11 @@ The web application consists of 4 pages. They are as follows.
 This is the home page of the clone website of Netflix. You can sign in to your account or know more about Netflix on this page.
 
 ![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_1.png)
+![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_2.png)
+![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_3.png)
+![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_4.png)
+![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_5.png)
+![Home Page](https://github.com/Saurabh-66/Netflix/blob/master/photos/home_6.png)
 
 #### Sign In Page
 
